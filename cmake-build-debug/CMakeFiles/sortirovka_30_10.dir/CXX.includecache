@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/informatika/sortirovka_30_10/main.cpp
+iostream
+-
+chrono
+-
+fstream
+-
+chrono
+-
+random
+-
+algorithm
+-
+iomanip
+-
+

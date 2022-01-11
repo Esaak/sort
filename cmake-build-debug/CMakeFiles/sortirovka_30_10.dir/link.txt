@@ -1,0 +1,3 @@
+"D:\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\sortirovka_30_10.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\sortirovka_30_10.dir/objects.a @CMakeFiles\sortirovka_30_10.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -O0 -g   -Wl,--whole-archive CMakeFiles\sortirovka_30_10.dir/objects.a -Wl,--no-whole-archive  -o sortirovka_30_10.exe -Wl,--out-implib,libsortirovka_30_10.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\sortirovka_30_10.dir\linklibs.rsp

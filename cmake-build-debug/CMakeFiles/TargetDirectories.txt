@@ -1,0 +1,3 @@
+D:/informatika/sortirovka_30_10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/informatika/sortirovka_30_10/cmake-build-debug/CMakeFiles/sortirovka_30_10.dir
+D:/informatika/sortirovka_30_10/cmake-build-debug/CMakeFiles/edit_cache.dir
